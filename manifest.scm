@@ -1,3 +1,4 @@
+;;; Analysis of BXD Mouse Colonies.
 (specifications->manifest
  '("python-matplotlib"
    "python-notebook"
